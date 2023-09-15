@@ -1,0 +1,18 @@
+.po {
+  color: red !important;
+}
+.pendingbody {
+  padding-top: 30px;
+}
+body  {
+
+
+   margin: 0 auto;
+   height: 100%;
+   width: 100%;
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-attachment: fixed;
+   background-size: cover;
+   background-image: url(./img/wall.jpg);
+}
